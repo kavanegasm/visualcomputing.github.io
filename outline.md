@@ -4,4 +4,4 @@ You can use the [editor on GitHub](https://github.com/VisualComputing/visualcomp
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-test
+[Return to main page]({{ site.baseurl }}{% link index.md %})
