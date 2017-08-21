@@ -11,7 +11,7 @@ A partir de cuatro tipos de ejercicios:
 
 favor observar:
 
-* Los quizzes, se evaluan cuantitativamente
+* Los quizzes se evaluan cuantitativamente
 * Los talleres, visual hacks y proyectos se evaluan cualitativamente como _completados_
 * Los quizzes y los talleres son los únicos ejercicios individuales
 * Los proyectos pueden ser sugeridos o propuestos por iniciativa propia
