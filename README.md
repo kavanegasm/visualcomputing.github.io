@@ -1,7 +1,3 @@
----
-layout: site
----
-
 Bienvenido!
 
 ## Metodología y evaluación
