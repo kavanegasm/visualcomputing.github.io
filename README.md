@@ -28,7 +28,7 @@ favor observar:
 | 3      | 14/8-17/8   | [Git](https://github.com/VisualComputing/git)                           | [acá](https://github.com/VisualComputing/git_ws)       |
 | 4      | 22/8-23/8   | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Cognitive_ws) |
 | 5      | 28/8-31/8   | [Colors](https://github.com/VisualComputing/colors)                     |                                                        |
-| 6      | 4/9-7/9     | [Rasterization](https://github.com/VisualComputing/Representation)      | acá                                                    |
+| 6      | 4/9-7/9     | [Rendering](https://github.com/VisualComputing/Rendering)               | acá                                                    |
 | 7      | 11/9-14/9   | [Representation](https://github.com/VisualComputing/Representation)     | acá                                                    |
 | 8      | 18/9-21/9   | Semana universitaria                                                    |                                                        |
 | 9      | 25/9-28/9   | Presentación proyecto 1                                                 | --                                                     |
