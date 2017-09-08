@@ -6,8 +6,8 @@ en el [Departamento de Ingeniería de Sistemas de la Universidad Nacional de Col
 **Tabla de contenido**
 
 - [Objetivo](#objetivo)
-- [Metodología](#metodolog-a)
-- [Evaluación](#evaluaci-n)
+- [Metodología](#metodología)
+- [Evaluación](#evaluación)
 - [Programa detallado](#programa-detallado)
 
 ## Objetivo
