@@ -8,7 +8,7 @@ en el [DISI de la Universidad Nacional de Colombia](http://www.ingenieria.unal.e
 Estudiar la [tubería de renderizado](https://en.wikipedia.org/wiki/Graphics_pipeline), ubicua en los computadores actuales, como el proceso fundamental subyacente de una aplicación visual moderna. Respecto del proceso gráfico se busca establecer:
 
 * La relación con la visión humana.
-* Sus entradas (modelos geométricos e imágenes).
+* Sus entradas (modelos geométricos, imágenes, gestos).
 * Sus pasos programables y el modo.
 
 ## Metodología
