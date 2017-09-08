@@ -1,14 +1,7 @@
 Bienvenido!
 
 En ese sitio se presentan los recursos en línea de la materia de _computación visual_, tal como se viene realizando
-en el [Departamento de Ingeniería de Sistemas de la Universidad Nacional de Colombia](http://www.ingenieria.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial).
-
-**Tabla de contenido**
-
-- [Objetivo](#objetivo)
-- [Metodología](#metodología)
-- [Evaluación](#evaluación)
-- [Programa detallado](#programa-detallado)
+en el [DISI de la Universidad Nacional de Colombia](http://www.ingenieria.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial).
 
 ## Objetivo
 
