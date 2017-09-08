@@ -1,10 +1,30 @@
 Bienvenido!
 
-## Metodología y evaluación
+En ese sitio se presentan los recursos en línea de la materia de _computación visual_, tal como se viene realizando
+en el [Departamento de Ingeniría de Sistemas de la Universidad Nacional de Colombia](http://www.ingenieria.unal.edu.co/dependencias/departamentos/departamento-de-ingenieria-de-sistemas-e-industrial).
+
+## Objetivo
+
+Estudiar la [tubería de renderizado](https://en.wikipedia.org/wiki/Graphics_pipeline), ubicua en los computadores actuales, como el proceso fundamental subyacente de una aplicación visual moderna. Respecto del proceso gráfico se busca establecer:
+
+* La relación con la visión humana
+* Sus entradas (modelos geométricos e imágenes)
+* Sus pasos programables y el modo
+
+## Metodología
+
+Basada en la creación _coloborativa_ de repositorios de información, liberados mediante [licencias amigables](https://en.wikipedia.org/wiki/Free_software), que comprenden:
+
+* [Presentaciones](https://github.com/orgs/VisualComputing/teams/presentations/repositories)
+* Software
+* Texto
+* Proyectos
+
+## Evaluación
 
 A partir de cuatro tipos de ejercicios:
 
-1. Quizzes (20%): de lecturas
+1. Quizzes (20%)
 2. Talleres (10% c/u): ejercicios 
 3. Visual hacks (10% c/u) de las (imágenes) de las presentaciones
 4. Proyectos (30% c/u): aplicación o indagación teórica
