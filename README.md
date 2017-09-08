@@ -9,7 +9,7 @@ Estudiar la [tubería de renderizado](https://en.wikipedia.org/wiki/Graphics_pip
 
 * La relación con la visión humana.
 * Sus entradas: modelos geométricos, imágenes y gestos.
-* Sus pasos programables y el modo.
+* Sus etapas, identificando las programables y el modo de hacerlo.
 
 ## Metodología
 
