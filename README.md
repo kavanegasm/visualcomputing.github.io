@@ -13,7 +13,7 @@ Estudiar la [tubería de renderizado](https://en.wikipedia.org/wiki/Graphics_pip
 
 ## Metodología
 
-Teórica-práctica, sustentada en la creación _coloborativa_ de repositorios de información, liberados mediante [licencias amigables](https://en.wikipedia.org/wiki/Free_software), que comprenden:
+Teórica-práctica, sustentada en la creación [coloborativa](https://en.wikipedia.org/wiki/Collaborative_learning) de repositorios de información, liberados mediante [licencias amigables](https://en.wikipedia.org/wiki/Free_software), que comprenden:
 
 * [Presentaciones](https://github.com/orgs/VisualComputing/teams/presentations/repositories).
 * Software.
