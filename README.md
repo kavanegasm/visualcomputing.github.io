@@ -49,7 +49,7 @@ favor observar:
 | 4      | 22/8-23/8   | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Cognitive_ws) |
 | 5      | 28/8-31/8   | [Colors](https://github.com/VisualComputing/colors)                     |                                                        |
 | 6      | 4/9-7/9     | [Rendering](https://github.com/VisualComputing/Rendering)               | [acá](https://github.com/VisualComputing/rendering_ws) |
-| 7      | 11/9-14/9   | [Representation](https://github.com/VisualComputing/Representation)     | acá                                                    |
+| 7      | 11/9-14/9   | [Representation](https://github.com/VisualComputing/Representation)     | [acá](https://github.com/VisualComputing/meshes_ws)    |
 | 8      | 18/9-21/9   | Semana universitaria                                                    |                                                        |
 | 9      | 25/9-28/9   | Presentación proyecto 1                                                 | --                                                     |
 | 10     | 2/10-5/10   | [Transformations 1](https://github.com/VisualComputing/Transformations) |                                                        |
