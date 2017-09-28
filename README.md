@@ -44,7 +44,7 @@ favor observar:
 | Semana | Fecha       | Tema                                                                    | Taller                                                 |
 |--------|-------------|-------------------------------------------------------------------------|--------------------------------------------------------|
 | 1      | 31/7-3/8    | [Introduction](https://github.com/VisualComputing/Introduction)         | --                                                     |
-| 2      | 8/8-10/8    | [Processing](https://processing.org/)                                   | acá                                                    |
+| 2      | 8/8-10/8    | [Processing](https://processing.org/)                                   | --                                                     |
 | 3      | 14/8-17/8   | [Git](https://github.com/VisualComputing/git)                           | [acá](https://github.com/VisualComputing/git_ws)       |
 | 4      | 22/8-23/8   | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Cognitive_ws) |
 | 5      | 28/8-31/8   | [Colors](https://github.com/VisualComputing/colors)                     |                                                        |
