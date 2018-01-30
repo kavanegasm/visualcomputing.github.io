@@ -59,3 +59,7 @@ favor observar:
 | 14     | 30/10-2/11  | [Shaders](https://github.com/VisualComputing/Shaders)                   | acá                                                          |
 | 15     | 7/11-9/11   | Asesorías proyecto 2                                                    |                                                              |
 | 16     | 14/11-16/11 | Presentación proyecto 2                                                 |                                                              |
+
+## Proyectos
+
+Ver [acá](projects.md)
