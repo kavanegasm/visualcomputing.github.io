@@ -5,7 +5,7 @@ en el [DISI de la Universidad Nacional de Colombia](http://www.ingenieria.unal.e
 
 ## Objetivo
 
-Estudiar el proceso de producción y manipulación de una imagen digital que sirve de sustento de una aplicación visual moderna, mediante una arquitectura moderna de computador. Respecto del proceso gráfico buscamos discernir:
+Estudiar el proceso de producción y manipulación de una imagen digital que sirve da sustento a una aplicación visual moderna, empleando una arquitectura actual de computador. Respecto de dicho proceso buscamos discernir:
 
 * La relación con la visión humana.
 * Sus entradas: modelos geométricos, imágenes y gestos.
