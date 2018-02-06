@@ -1,6 +1,6 @@
 # Collaborations
 
-## Slides
+## 1. Slides
 
 ### Visual hacks
 
@@ -16,17 +16,17 @@ Replace bitmap images with code generated ones
     * Parametric surfaces
 3. Transformations: Rotation with quaternions ([suggested source](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf))
 
-## [Proscene](https://github.com/remixlab/proscene)
+## 2. [Proscene](https://github.com/remixlab/proscene)
 
 1. Write a tutorial
 2. Scene serialization
 3. New examples, such as some games and prezi-like slides demo
 
-## [Proscene.js](https://github.com/VisualComputing/proscene.js)
+## 3. [Proscene.js](https://github.com/VisualComputing/proscene.js)
 
 Join team
 
-## Visualization of casa de la moneda coins
+## 4. Visualization of casa de la moneda coins
 
 * Institution: Casa de la moneda
 * Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
