@@ -11,7 +11,7 @@ Replace bitmap images with code generated ones
 1. [Rendering](ttps://github.com/VisualComputing/Rendering)
   1. Basic rasterization algorithms ([suggested source](https://en.wikipedia.org/wiki/Computer_Graphics:_Principles_and_Practice))
   2. Hidden surface removal techniques ([suggested source](https://en.wikipedia.org/wiki/Computer_Graphics:_Principles_and_Practice))
-2. [Curves)(https://github.com/VisualComputing/Curves)
+2. [Curves](https://github.com/VisualComputing/Curves)
   1. [B-Splines](https://en.wikipedia.org/wiki/B-spline)
   2. Parametric surfaces
 3. Transformations: Rotation with quaternions ([suggested source](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf))
