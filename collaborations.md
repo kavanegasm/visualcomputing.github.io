@@ -28,6 +28,6 @@ Join team
 
 ## Visualization of casa de la moneda coins
 
-Institution: Casa de la moneda
-Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
-Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
+* Institution: Casa de la moneda
+* Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
+* Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
