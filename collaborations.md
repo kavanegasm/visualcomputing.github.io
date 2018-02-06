@@ -31,3 +31,5 @@ Join team
 * Institution: Casa de la moneda
 * Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
 * Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
+
+[Back]({{ site.url }}/)
