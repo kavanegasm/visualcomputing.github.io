@@ -26,7 +26,7 @@ Replace bitmap images with code generated ones
 
 ## 3. [Proscene.js](https://github.com/VisualComputing/proscene.js)
 
-Join team
+Replace reflection-based interactions ([current](https://www.sciencedirect.com/science/article/pii/S235271101730002X?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb)) with closure-based ones
 
 ## 4. Visualization of casa de la moneda coins
 
