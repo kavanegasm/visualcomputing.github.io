@@ -16,7 +16,7 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 [Activa](https://en.wikipedia.org/wiki/Active_learning)-[colaborativa](https://github.com/VisualComputing/Introduction) en el mantenimiento y desarrollo de:
 
 * [Presentaciones](https://github.com/orgs/VisualComputing/teams/presentations/repositories).
-* [Software](https://github.com/orgs/VisualComputing/teams/js/repositories).
+* [Software](https://github.com/remixlab/proscene).
 * [Colaboraciones](collaborations.md).
 * Texto referencia (pendiente).
 
