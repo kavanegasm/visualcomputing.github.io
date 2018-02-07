@@ -45,15 +45,16 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | Semana | Tema                                                                    | Taller                                                       |
 |--------|-------------------------------------------------------------------------|--------------------------------------------------------------|
 | 1      | [Introduction](https://github.com/VisualComputing/Introduction)         | --                                                           |
-| 2      | [Git](https://github.com/VisualComputing/git)                           | [acá](https://github.com/VisualComputing/git_ws)             |
-| 3      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Cognitive_ws)       |
-| 4      | [Colors](https://github.com/VisualComputing/colors)                     |                                                              |
-| 5      | [Rendering](https://github.com/VisualComputing/Rendering)               | [acá](https://github.com/VisualComputing/rendering_ws)       |
-| 6      | [Representation 1](https://github.com/VisualComputing/Representation)   | [acá](https://github.com/VisualComputing/meshes_ws)          |
-| 7      | [Representation 2](https://github.com/VisualComputing/Curves)           | [acá](https://github.com/VisualComputing/Curves_ws)          |
-| 8      | [Transformations 1](https://github.com/VisualComputing/Transformations) |                                                              |
-| 9      | [Transformations 2](https://github.com/VisualComputing/Transformations) | [acá](https://github.com/VisualComputing/Transformations_ws) |
-| 10     | [Interaction 1](https://github.com/VisualComputing/Interaction)         |                                                              |
-| 11     | [Interaction 2](https://github.com/VisualComputing/Interaction)         | acá                                                          |
-| 12     | [Shaders 1](https://github.com/VisualComputing/Shaders)                 | acá                                                          |
-| 13     | Shaders 2 (en desarrollo...)                                            | acá                                                          |
+| 2      | [Processing](https://processing.org/)                                   | --                                                           |
+| 3      | [Git](https://github.com/VisualComputing/git)                           | [acá](https://github.com/VisualComputing/git_ws)             |
+| 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Cognitive_ws)       |
+| 5      | [Colors](https://github.com/VisualComputing/colors)                     |                                                              |
+| 6      | [Rendering](https://github.com/VisualComputing/Rendering)               | [acá](https://github.com/VisualComputing/rendering_ws)       |
+| 7      | [Representation 1](https://github.com/VisualComputing/Representation)   | [acá](https://github.com/VisualComputing/meshes_ws)          |
+| 8      | [Representation 2](https://github.com/VisualComputing/Curves)           | [acá](https://github.com/VisualComputing/Curves_ws)          |
+| 9      | [Transformations 1](https://github.com/VisualComputing/Transformations) |                                                              |
+| 10     | [Transformations 2](https://github.com/VisualComputing/Transformations) | [acá](https://github.com/VisualComputing/Transformations_ws) |
+| 11     | [Interaction 1](https://github.com/VisualComputing/Interaction)         |                                                              |
+| 12     | [Interaction 2](https://github.com/VisualComputing/Interaction)         | acá                                                          |
+| 13     | [Shaders 1](https://github.com/VisualComputing/Shaders)                 | acá                                                          |
+| 14     | Shaders 2 (en desarrollo...)                                            | acá                                                          |
