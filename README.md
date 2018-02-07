@@ -55,4 +55,5 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 9      | [Transformations 2](https://github.com/VisualComputing/Transformations) | [acá](https://github.com/VisualComputing/Transformations_ws) |
 | 10     | [Interaction 1](https://github.com/VisualComputing/Interaction)         |                                                              |
 | 11     | [Interaction 2](https://github.com/VisualComputing/Interaction)         | acá                                                          |
-| 12     | [Shaders](https://github.com/VisualComputing/Shaders)                   | acá                                                          |
+| 12     | [Shaders 1](https://github.com/VisualComputing/Shaders)                 | acá                                                          |
+| 13     | Shaders 2 (en desarrollo...)                                            | acá                                                          |
