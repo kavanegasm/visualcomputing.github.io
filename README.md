@@ -13,16 +13,16 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 ## Metodología
 
-Teórica-práctica que comprenden:
+[Activa](https://en.wikipedia.org/wiki/Active_learning)-[colaborativa](https://github.com/VisualComputing/Introduction) en el mantenimiento y desarrollo de:
 
 * [Presentaciones](https://github.com/orgs/VisualComputing/teams/presentations/repositories).
-* Software.
-* Texto.
-* Proyectos.
+* [Software](https://github.com/orgs/VisualComputing/teams/js/repositories).
+* [Colaboraciones](collaborations.md).
+* Texto referencia (pendiente).
 
 ## Evaluación
 
-A partir de cuatro tipos de ejercicios:
+A partir de tres tipos de ejercicios:
 
 1. Quizzes (30%).
 2. Talleres (10% c/u, hasta 70%): ejercicios.
