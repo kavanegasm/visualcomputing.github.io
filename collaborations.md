@@ -21,7 +21,7 @@ Replace bitmap images with code generated ones
 
 1. Write a tutorial
 2. Scene serialization
-3. New examples, such as some games and [prezi]()-like slides demo
+3. New examples, such as some games and [prezi](https://prezi.com/)-like slides demo
 4. Ray-tracing renderer
 
 ## 3. [Proscene.js](https://github.com/VisualComputing/proscene.js)
