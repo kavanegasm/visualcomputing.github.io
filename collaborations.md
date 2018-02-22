@@ -28,10 +28,26 @@ Replace bitmap images with code generated ones
 
 Replace reflection-based interactions ([current](https://www.sciencedirect.com/science/article/pii/S235271101730002X?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb)) with closure-based ones
 
-## 4. Visualization of casa de la moneda coins
+## On going visualization projects in collaboration with [Banco de la República](www.banrepcultural.org)
 
-* Institution: [Casa de la moneda](http://www.banrepcultural.org/bogota/casa-de-moneda)
+### Visualization of casa de la moneda coins
+
 * Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
+* Target audience: general public and researchers.
 * Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
+
+### Visualization of a national birds
+
+* Goal: To visualize a national collection of birds having many fields, such as...
+* Target audience: general public and biology researchers.
+* About the data: (describe context and history and available data fields)
+* References:  (similar projects, online resources if any)
+
+### Visualization of Gumercindo pictures
+
+* Goal: To visualize Gumercindo photo collection.
+* Target audience: general public and social researchers.
+* About the data: (describe context and history and available data fields)
+* References: (similar projects, online resources if any)
 
 [Back]({{ site.url }}/)
