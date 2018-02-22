@@ -36,7 +36,7 @@ Replace reflection-based interactions ([current](https://www.sciencedirect.com/s
 * Target audience: general public and researchers.
 * Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
 
-### Visualization of a national birds
+### Visualization of a national birds collection
 
 * Goal: To visualize a national collection of birds having many fields, such as...
 * Target audience: general public and biology researchers.
