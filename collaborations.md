@@ -28,26 +28,26 @@ Replace bitmap images with code generated ones
 
 Replace reflection-based interactions ([current](https://www.sciencedirect.com/science/article/pii/S235271101730002X?_rdoc=1&_fmt=high&_origin=gateway&_docanchor=&md5=b8429449ccfc9c30159a5f9aeaa92ffb)) with closure-based ones
 
-## On going visualization projects in collaboration with [Banco de la República](www.banrepcultural.org)
+## On going visualization projects in collaboration with [Biblioteca Virtual del Banco de la República](www.banrepcultural.org/biblioteca-virtual)
 
-### Visualization of casa de la moneda coins
+### Visualization of numismatic collection of Casa de la Moneda
 
 * Goal: To visualize Casa de la Moneda coins using different criteria meeting different user needs (researchers and visitors)
 * Target audience: general public and researchers.
 * Status: proof-of-concept, [here](https://github.com/visualnumismatica/visualnumismatica)
 
-### Visualization of a national birds collection
+### Visualization of a national birds collection (Biodiversidad región andina central de Colombia)
 
-* Goal: To visualize a national collection of birds having many fields, such as...
+* Goal: To visualize a national collection of birds mainly of the andean reagion, having many fields, such as (scientific, common and english name, order, family, description, similar species, coverage (spacial and temporal), geographic distribution, etc. (39 terms aprox.).
 * Target audience: general public and biology researchers.
-* About the data: (describe context and history and available data fields)
-* References:  (similar projects, online resources if any)
+* About the data: The Digital Collection of Birds of the Central Andean Region of Colombia gathers photographs and illustrations with relevant information about some representative birds of the region. This collection includes a little more than 300 records of birds, with about 45 fields of description of each species that, in addition to giving an account of the beauty and color of these animals, presents relevant aspects such as identification, geographical distribution, vocalization and songs , among others. With this collection we want to highlight the great diversity of birds that inhabit the coffee ecoregion of Colombia, admire them, know them and provide tools for their study and conservation. It is a useful resource for members of the scientific community, environmental educators, teachers and students who can consult it online from anywhere in the country.
+* References: (similar projects, online resources if any)
 
-### Visualization of Gumercindo pictures
+### Visualization of Gumersindo Cuellar pictures (30's - 50's photographs)
 
-* Goal: To visualize Gumercindo photo collection.
+* Goal: To visualize [Gumersindo Cuellar](http://babel.banrepcultural.org/cdm/landingpage/collection/p17054coll19) photo collection
 * Target audience: general public and social researchers.
-* About the data: (describe context and history and available data fields)
+* About the data: Gumersindo Cuellar was one of the most important photographs into the 30's and 50's period in Colombia, He captured historical and extinct monuments, cultural representations, transport infrastructures, and much more. The collection has fields such as (title (original/assigned), categories, events, formats, dimensions, geo-coordinates (long-lati), url google maps, street view, etc)
 * References: (similar projects, online resources if any)
 
 [Back]({{ site.url }}/)
