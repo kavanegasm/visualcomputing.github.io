@@ -54,7 +54,5 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 8      | [Representation 2](https://github.com/VisualComputing/Curves)           | [acá](https://github.com/VisualComputing/Splines_ws)         |
 | 9      | [Transformations 1](https://github.com/VisualComputing/Transformations) |                                                              |
 | 10     | [Transformations 2](https://github.com/VisualComputing/Transformations) | [acá](https://github.com/VisualComputing/Transformations_ws) |
-| 11     | [Interaction 1](https://github.com/VisualComputing/Interaction)         |                                                              |
-| 12     | [Interaction 2](https://github.com/VisualComputing/Interaction)         | acá                                                          |
-| 13     | [Shaders 1](https://github.com/VisualComputing/Shaders)                 | acá                                                          |
-| 14     | Shaders 2 (en desarrollo...)                                            | acá                                                          |
+| 11     | [Interaction](https://github.com/VisualComputing/Interaction)           |                                                              |
+| 12     | [Shaders](https://github.com/VisualComputing/Shaders)                   |                                                              |
