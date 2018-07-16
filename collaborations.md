@@ -10,7 +10,6 @@ Replace bitmap images with code generated ones
 
 1. [Rendering](https://github.com/VisualComputing/Rendering)
     * Basic rasterization algorithms ([suggested source](https://en.wikipedia.org/wiki/Computer_Graphics:_Principles_and_Practice))
-    * Hidden surface removal techniques ([suggested source](https://en.wikipedia.org/wiki/Computer_Graphics:_Principles_and_Practice))
     * [Constructive solid geometry](https://en.wikipedia.org/wiki/Constructive_solid_geometry)
 2. [Curves](https://github.com/VisualComputing/Curves)
     * [B-Splines](https://en.wikipedia.org/wiki/B-spline)
@@ -19,12 +18,13 @@ Replace bitmap images with code generated ones
 
 ## 2. [FramesJS](https://github.com/VisualComputing/framesjs)
 
+1. JS port
 1. Write a tutorial
 2. Scene serialization
 3. New examples, such as some games and [prezi](https://prezi.com/)-like slides demo
 4. Ray-tracing renderer
 
-## On going visualization projects in collaboration with [Biblioteca Virtual del Banco de la República](www.banrepcultural.org/biblioteca-virtual)
+## 3. On going visualization projects in collaboration with [Biblioteca Virtual del Banco de la República](www.banrepcultural.org/biblioteca-virtual)
 
 ### Visualization of numismatic collection of Casa de la Moneda
 
@@ -45,5 +45,28 @@ Replace bitmap images with code generated ones
 * Target audience: general public and social researchers.
 * About the data: Gumersindo Cuellar was one of the most important photographs into the 30's and 50's period in Colombia, He captured historical and extinct monuments, cultural representations, transport infrastructures, and much more. The collection has fields such as (title (original/assigned), categories, events, formats, dimensions, geo-coordinates (long-lati), url google maps, street view, etc)
 * References: (similar projects, online resources if any)
+
+## 4. Research
+
+### Third person camera control
+
+* Goal: To develop a real-time third-person camera control for navigation in virtual environments
+* References:
+    1. [A Survey of Interaction Techniques for Interactive 3D Environment](https://hal.inria.fr/hal-00789413/document)
+    2. [FramesJS](https://github.com/VisualComputing/framesjs)
+
+### Algorithm visualization
+
+* Goal: To visualize some visual-computing concepts, such as [hidden surface removal techniques](https://en.wikipedia.org/wiki/Hidden_surface_determination) and [3D projections](https://en.wikipedia.org/wiki/3D_projection).
+* References:
+    1. [Algorithm Visualization: The State of the Field](https://dl.acm.org/citation.cfm?id=1821997)
+    2. [Algovis](https://github.com/enjalot/algovis)
+    3. [Visualizing algorithms](https://bost.ocks.org/mike/algorithms/)
+
+### Physics-based eye interactions
+
+### IK-based mesh deformations
+
+### Puppet dancer
 
 [Back]({{ site.url }}/)
