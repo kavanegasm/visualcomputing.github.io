@@ -52,7 +52,7 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 6      | [Rendering](https://github.com/VisualComputing/Rendering)               | [acá](https://github.com/VisualComputing/Raster_ws)          |
 | 7      | [Representation 1](https://github.com/VisualComputing/Representation)   |                                                              |
 | 8      | [Representation 2](https://github.com/VisualComputing/Curves)           | [acá](https://github.com/VisualComputing/representation_ws)  |
-| 9      | [Transformations 1](https://github.com/VisualComputing/Transformations) |                                                              |
-| 10     | [Transformations 2](https://github.com/VisualComputing/Transformations) | [acá](https://github.com/VisualComputing/Transformations_ws) |
-| 11     | [Interaction](https://github.com/VisualComputing/Interaction)           |                                                              |
-| 12     | [Shaders](https://github.com/VisualComputing/Shaders)                   |                                                              |
+| 9      | [Transformations 1](https://github.com/VisualComputing/Transformations) [hasta acá](http://visualcomputing.github.io/Transformations/#/6/25) |                                                              |
+| 10     | [lectura](http://www.songho.ca/opengl/gl_projectionmatrix.html) [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7) | [acá](https://github.com/VisualComputing/Transformations_ws) |
+| 11     | [lectura](https://hal.inria.fr/hal-00789413/document) [Interaction](https://github.com/VisualComputing/Interaction)           |                                                              |
+| 12     | [lectura](https://processing.org/tutorials/pshader/) [Shaders](https://github.com/VisualComputing/Shaders)                   |                                                              |
