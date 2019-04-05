@@ -24,8 +24,8 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 A partir de tres tipos de ejercicios:
 
-1. Quizzes, 30%.
-2. Talleres (10% c/u; interacción y shaders 15% c/u), 70%: ejercicios.
+1. Quizzes, 20%.
+2. Talleres (entre 10% y 15% c/u), 80%: ejercicios.
 3. [Colaboraciones](collaborations.md) (apreciativa otorgada al final del semestre)
 
 <!---  
