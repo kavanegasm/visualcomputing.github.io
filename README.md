@@ -22,10 +22,8 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 ## Evaluación
 
-A partir de tres tipos de ejercicios:
-
-1. Quizzes, 20%.
-2. Talleres (entre 10% y 15% c/u), 80%: ejercicios.
+1. Quizzes (20%): control de lecturas
+2. Talleres (entre 10% y 15% c/u): código e informe. Requieren sustentación oral _in situ_
 3. [Colaboraciones](collaborations.md) (apreciativa otorgada al final del semestre)
 
 <!---  
