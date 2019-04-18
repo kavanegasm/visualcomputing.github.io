@@ -42,8 +42,8 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 
 | Semana | Tema                                                                    | Taller                                                       |
 |--------|-------------------------------------------------------------------------|--------------------------------------------------------------|
-| 1      | [Introduction](https://github.com/VisualComputing/Introduction)         | --                                                           |
-| 2      | [Processing](https://processing.org/)                                   | --                                                           |
+| 1      | [Introduction](https://github.com/VisualComputing/Introduction)         |                                                              |
+| 2      | [Processing](https://processing.org/)                                   | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
 | 3      | [Git](https://github.com/VisualComputing/git)                           | --                                                           |
 | 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | --                                                           |
 | 5      | [Transformations 1](https://github.com/VisualComputing/Transformations) | --                                                           |
