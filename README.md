@@ -46,9 +46,9 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 2      | [Processing](https://processing.org/)                                   | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
 | 3      | [Git](https://github.com/VisualComputing/git)                           | --                                                           |
 | 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | --                                                           |
-| 5      | [Transformations 1](https://github.com/VisualComputing/Transformations) | --                                                           |
-| 6      | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7) | --                                            |
-| 7      | [Rendering](https://github.com/VisualComputing/Rendering)               | --                                                           |
+| 5      | [Rendering](https://github.com/VisualComputing/Rendering)               | --                                                           |
+| 6      | [Transformations 1](https://github.com/VisualComputing/Transformations) | --                                                           |
+| 7      | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7) | --                                            |
 | 8      | [Shaders](https://github.com/VisualComputing/Shaders)                   | --                                                           |
 | 9      | [Imaging](https://github.com/VisualComputing/Shaders)                   | --                                                           |
 | 10     | [Lighting](https://github.com/VisualComputing/Shaders)                  | --                                                           |
