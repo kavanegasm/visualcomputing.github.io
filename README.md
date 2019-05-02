@@ -45,7 +45,7 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 1      | [Introduction](https://github.com/VisualComputing/Introduction)         |                                                              |
 | 2      | [Processing](https://processing.org/)                                   | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
 | 3      | [Git](https://github.com/VisualComputing/git)                           | --                                                           |
-| 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | --                                                           |
+| 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Illusions_ws)       |
 | 5      | [Rendering](https://github.com/VisualComputing/Rendering)               | --                                                           |
 | 6      | [Transformations 1](https://github.com/VisualComputing/Transformations) | --                                                           |
 | 7      | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7) | --                                            |
