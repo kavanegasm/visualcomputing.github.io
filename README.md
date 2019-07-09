@@ -53,4 +53,4 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | 9      | [Imaging](https://github.com/VisualComputing/Shaders)                   | --                                                           |
 | 10     | [Lighting](https://github.com/VisualComputing/Shaders)                  | [acá](https://github.com/VisualComputing/shaders_ws)         |
 | 11     | [Interaction](https://github.com/VisualComputing/Interaction)           | --                                                           |
-| 12     | [Inverse kinematics](https://github.com/VisualComputing/Interaction)    | --                                                           |
+| 12     | [Inverse kinematics](https://github.com/VisualComputing/IK)             | --                                                           |
