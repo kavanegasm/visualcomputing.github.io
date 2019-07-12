@@ -40,17 +40,17 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 
 ## Programa detallado
 
-| Semana | Tema                                                                    | Taller                                                       |
-|--------|-------------------------------------------------------------------------|--------------------------------------------------------------|
-| 1      | [Introduction](https://github.com/VisualComputing/Introduction)         |                                                              |
-| 2      | [Processing](https://processing.org/)                                   | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
-| 3      | [Git](https://github.com/VisualComputing/git)                           | --                                                           |
-| 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)               | [acá](https://github.com/VisualComputing/Illusions_ws)       |
-| 5      | [Rendering](https://github.com/VisualComputing/Rendering)               | [acá](https://github.com/VisualComputing/Raster_ws)          |
-| 6      | [Transformations 1](https://github.com/VisualComputing/Transformations) | --                                                           |
-| 7      | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7) | --                                            |
-| 8      | [Shaders](https://github.com/VisualComputing/Shaders)                   | --                                                           |
-| 9      | [Imaging](https://github.com/VisualComputing/Shaders)                   | --                                                           |
-| 10     | [Lighting](https://github.com/VisualComputing/Shaders)                  | [acá](https://github.com/VisualComputing/shaders_ws)         |
-| 11     | [Interaction](https://github.com/VisualComputing/Interaction)           | --                                                           |
-| 12     | [Inverse kinematics](https://github.com/VisualComputing/IK)             | --                                                           |
+| Semana | Tema                                                                                      | Taller                                                       |
+|--------|-------------------------------------------------------------------------------------------|--------------------------------------------------------------|
+| 1      | [Introduction](https://github.com/VisualComputing/Introduction)                           |                                                              |
+| 2      | [Processing](https://processing.org/)                                                     | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
+| 3      | [Git](https://github.com/VisualComputing/git)                                             | --                                                           |
+| 4      | [Cognitive](https://github.com/VisualComputing/Cognitive)                                 | [acá](https://github.com/VisualComputing/Illusions_ws)       |
+| 5      | [Rendering](https://github.com/VisualComputing/Rendering)                                 | [acá](https://github.com/VisualComputing/Raster_ws)          |
+| 6      | [Transformations de vista y modelado](https://github.com/VisualComputing/Transformations) | --                                                           |
+| 7      | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7)    | --                                                           |
+| 8      | [Shaders](https://github.com/VisualComputing/Shaders)                                     | --                                                           |
+| 9      | [Imaging](https://github.com/VisualComputing/Shaders)                                     | --                                                           |
+| 10     | [Lighting](https://github.com/VisualComputing/Shaders)                                    | [acá](https://github.com/VisualComputing/shaders_ws)         |
+| 11     | [Interaction](https://github.com/VisualComputing/Interaction)                             | --                                                           |
+| 12     | [Inverse kinematics](https://github.com/VisualComputing/IK)                               | [acá](https://github.com/VisualComputing/HCI-IK_ws)          |
