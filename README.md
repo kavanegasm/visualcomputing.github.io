@@ -13,7 +13,7 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 ## Metodología
 
-[Activa](https://en.wikipedia.org/wiki/Active_learning)-[colaborativa](https://github.com/VisualComputing/Introduction) en el mantenimiento y desarrollo de:
+[Activa](https://en.wikipedia.org/wiki/Active_learning)-[colaborativa](https://github.com/VisualComputing/Introduction) en el estudio y desarrollo de:
 
 * [Presentaciones](https://github.com/orgs/VisualComputing/teams/presentations/repositories).
 * [Software](https://github.com/remixlab/proscene).
@@ -22,9 +22,8 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 ## Evaluación
 
-1. Quizzes (20%): control de lecturas
-2. Talleres (entre 10% y 15% c/u): código e informe. Requieren sustentación oral _in situ_
-3. [Colaboraciones](collaborations.md) (apreciativa otorgada al final del semestre)
+1. Apreciativa (10%): lecturas, participación y [colaboraciones](collaborations.md).
+2. Talleres por grupos (entre 10% y 15% c/u): código, presentación oral _in situ_ e informe.
 
 <!---  
 Observaciones:
