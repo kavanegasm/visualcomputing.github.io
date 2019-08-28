@@ -23,7 +23,7 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 ## Evaluación
 
 1. Apreciativa (10%): lecturas, participación y [colaboraciones](collaborations.md).
-2. Talleres por grupos (entre 10% y 15% c/u): código, presentación oral _in situ_ e informe.
+2. Talleres por grupos (entre 10% y 15% c/u): código, presentación oral _in situ_, apropiada atribución de las fuentes (código y literatura)  e informe.
 
 <!---  
 Observaciones:
