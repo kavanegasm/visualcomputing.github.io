@@ -39,8 +39,7 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 
 ## Programa detallado
 
-| Lectura  |                                                                                        |                                                              |
-| sugerida | Tema                                                                                   | Taller                                                       |
+| Lectura sugerida | Tema                                                                           | Taller                                                       |
 |----------|----------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |       | [Introduction](https://github.com/VisualComputing/Introduction)                           |                                                              |
 |       | [Processing](https://processing.org/)                                                     | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
