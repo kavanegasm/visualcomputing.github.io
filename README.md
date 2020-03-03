@@ -39,13 +39,14 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 
 ## Programa detallado
 
-| Lectura sugerida | Tema                                                                           | Taller                                                       |
+| Lectura a preparar | Tema                                                                           | Taller                                                       |
 |----------|----------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |       | [Introduction](https://github.com/VisualComputing/Introduction)                           |                                                              |
 |       | [Processing](https://processing.org/)                                                     | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
-| [Do we see reality as it is?](http://y2u.be/oYp5XuGYqqY) & [simulation argument](https://www.simulation-argument.com/simulation.html) | [Cognitive](https://github.com/VisualComputing/Cognitive)                                 | [acá](https://github.com/VisualComputing/Illusions_ws)       |
+| [Do we see reality as it is?](http://y2u.be/oYp5XuGYqqY), [simulation argument](https://www.simulation-argument.com/simulation.html) | [Cognitive](https://github.com/VisualComputing/Cognitive)                                 | [acá](https://github.com/VisualComputing/Illusions_ws)       |
+| [Visualizing Data](http://media.espora.org/mgoblin_media/media_entries/1633/Visualizing_Data.pdf) | Data Visualization | --  |
 | [The barycentric conspiracy](https://fgiesen.wordpress.com/2013/02/06/the-barycentric-conspirac/) | [Rendering](https://github.com/VisualComputing/Rendering)                                 | [acá](https://github.com/VisualComputing/Raster_ws)          |
-| [Chapters 8 & 9](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf) | [Transformations de vista y modelado](https://github.com/VisualComputing/Transformations) | --                                                           |
+| [(3D Math primer for Graphics and Game Development -- chs. 8 & 9)](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf) | [Transformations de vista y modelado](https://github.com/VisualComputing/Transformations) | --                                                           |
 | [Projection matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7)    | --                                                           |
 | [Shaders tutorial](https://processing.org/tutorials/pshader/) | [Shaders](https://github.com/VisualComputing/Shaders)                                     | --                                                           |
 | [nub](https://github.com/VisualComputing/nub) | [Interaction](https://github.com/VisualComputing/Interaction)                             | --                                                           |
