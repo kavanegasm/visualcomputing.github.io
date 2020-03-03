@@ -22,8 +22,8 @@ Estudiar el proceso de producción y manipulación de una imagen digital que sir
 
 ## Evaluación
 
-1. Apreciativa (10%): lecturas, participación y [colaboraciones](collaborations.md).
-2. Talleres por grupos (entre 10% y 15% c/u): código, presentación oral _in situ_, apropiada atribución de las fuentes (código y literatura)  e informe.
+* Talleres por grupos: código, presentación oral _in situ_, apropiada atribución de las fuentes (código y literatura)  e informe.
+* Quizzes.
 
 <!---  
 Observaciones:
@@ -48,7 +48,5 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | [Chapters 8 & 9](https://tfetimes.com/wp-content/uploads/2015/04/F.Dunn-I.Parberry-3D-Math-Primer-for-Graphics-and-Game-Development.pdf) | [Transformations de vista y modelado](https://github.com/VisualComputing/Transformations) | --                                                           |
 | [Projection matrix](http://www.songho.ca/opengl/gl_projectionmatrix.html) | [Transformaciones de proyección](http://visualcomputing.github.io/Transformations/#/7)    | --                                                           |
 | [Shaders tutorial](https://processing.org/tutorials/pshader/) | [Shaders](https://github.com/VisualComputing/Shaders)                                     | --                                                           |
-|       | [Imaging](https://github.com/VisualComputing/Shaders)                                     | --                                                           |
-|      | [Lighting](https://github.com/VisualComputing/Shaders)                                    | [acá](https://github.com/VisualComputing/shaders_ws)         |
 | [nub](https://github.com/VisualComputing/nub) | [Interaction](https://github.com/VisualComputing/Interaction)                             | --                                                           |
 |         | [Inverse kinematics](https://github.com/VisualComputing/IK)                               | [acá](https://github.com/VisualComputing/HCI-IK_ws)          |
