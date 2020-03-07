@@ -42,7 +42,7 @@ Libros, artículos, wikipedia de acuerdo a cada tema.
 | Lectura a preparar | Tema                                                                         | Taller                                                       |
 |----------|----------------------------------------------------------------------------------------|--------------------------------------------------------------|
 |       | [Introduction](https://github.com/VisualComputing/Introduction)                           |                                                              |
-| [git-book chs. 1-3](https://git-scm.com/book/en/v2) [gh-pages](https://pages.github.com/) | [git](https://github.com/VisualComputing/git) |                                                              |
+| [git-book chs. 1-3](https://git-scm.com/book/en/v2), [gh-pages](https://pages.github.com/) | [git](https://github.com/VisualComputing/git) |                                                              |
 |       | [Processing](https://processing.org/)                                                     | [acá](https://github.com/VisualComputing/soft-imaging_ws)    |
 | [Do we see reality as it is?](http://y2u.be/oYp5XuGYqqY), [simulation argument](https://www.simulation-argument.com/simulation.html) | [Cognitive](https://github.com/VisualComputing/Cognitive)                                 | [acá](https://github.com/VisualComputing/Illusions_ws)       |
 | [Visualizing Data](http://media.espora.org/mgoblin_media/media_entries/1633/Visualizing_Data.pdf) | Data Visualization | --  |
