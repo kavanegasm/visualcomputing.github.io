@@ -1,5 +1,6 @@
 # Collaborations
 
+Hola commit para monica 
 ## 1. Course resources
 
 ### Slides visual hacks
